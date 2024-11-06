@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../Channel/out/libchannel.a CMakeFiles/channel.dir/src/server.cpp.o CMakeFiles/channel.dir/src/client.cpp.o
+/usr/bin/ranlib ../../Channel/out/libchannel.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TCP_client.dir/TCP_cli_main.cpp.o -o ../../Application/out/TCP_client  ../../Socket/out/libsocket.a ../../Channel/out/libchannel.a ../../Socket/out/libsocket.a 

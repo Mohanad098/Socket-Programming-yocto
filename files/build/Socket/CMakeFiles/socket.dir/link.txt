@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../Socket/out/libsocket.a CMakeFiles/socket.dir/src/TCPsocket.cpp.o CMakeFiles/socket.dir/src/UDPsocket.cpp.o
+/usr/bin/ranlib ../../Socket/out/libsocket.a

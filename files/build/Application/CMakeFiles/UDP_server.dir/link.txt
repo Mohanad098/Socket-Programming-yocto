@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/UDP_server.dir/UDP_serv_main.cpp.o -o ../../Application/out/UDP_server  ../../Socket/out/libsocket.a ../../Channel/out/libchannel.a ../../Socket/out/libsocket.a 
